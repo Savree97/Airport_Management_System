@@ -16,16 +16,6 @@ This project demonstrates **relational database design**, advanced SQL programmi
 
 ---
 
-## 🗂 Project Structure
-├── AIRPORT_MANAGEMENT_SYSTEM.sql # Database creation & table definitions
-├── sample_queries.sql # Example SQL queries for demonstration
-├── ERD.png.png # Entity-Relationship Diagram
-├── Project_Report.pdf # Detailed project documentation
-└── README.md # Project description
-
-
----
-
 ## 🛠 Technologies Used
 - **Database**: Oracle SQL
 - **Tools**: Oracle SQL Developer / Any SQL IDE
